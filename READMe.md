@@ -1,4 +1,4 @@
-# Sumanth Portfolio 
+# Sumanth U R Portfolio 
 
 This is doc created for giving brief about the repository.
 
